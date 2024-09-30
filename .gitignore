@@ -1,0 +1,8 @@
+.terraform.*
+key.pem
+terraform.*
+deployment.yml
+test.sh
+worker-userdata.sh
+service.yml
+.terraform
